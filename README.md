@@ -1,6 +1,6 @@
 <h1 align="center">xplt-r@github:~# whoami</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=22&center=true&vCenter=true&width=650&lines=Bug+Bounty+Hunter;Recon+Automation+Architect;WSL+Poweruser+%7C+Linux+Customizer;Threat+Surface+Manager+%7C+Customised+Tools+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=22&center=true&vCenter=true&width=650&lines=Bug+Bounty+Hunter;Recon+Automation+Architect;WSL+Poweruser+%7C+Linux+Customizer;Threat+Surface+Manager+%7C+Customised+Tools+Developer;Prompt+Engineer+%7C+Automation+Expert" />
 </p>
 
 <h2 align="center">
