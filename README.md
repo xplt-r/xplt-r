@@ -23,7 +23,7 @@ I'm <a href="https://instagram.com/the.xploiter">XPLTR</a>, an Ethical Hacker, S
 
 ---
 
-🔍 Currently hunting:
+## 🔍 Currently hunting:
 
 Domains without their name in the bucket.
 
@@ -34,29 +34,29 @@ Parameters that echo back a whisper ("FUZZ").
 Misconfigs hiding behind 403s.
 
 
-🚀 Building:
+## 🚀 Tools and Projects:
 
-ReconX: A subdomain-to-pwn pipeline.
+(S3Hunter)[https://github.com/xplt-r/s3hunter]: Smarter & faster S3 bucket hunter with mirror logic and retries.
 
-S3-Hound: Smarter & faster S3 bucket hunter with mirror logic and retries.
+(DorkNinja)[httpsL//github.com/xplt-r/DorkNinja]: Automated CLI-based google dorking tool.
 
-Nuclei-Automator: Context-aware nuclei orchestration.
+(Nuclei-Automator)[https://github.com/xplt-r/NucleiAutomator]: Context-aware nuclei orchestration.
 
 
-🧠 Mindset:
+## 🧠 Mindset:
 
 > I don’t chase CVEs.
 I chase logic, loose doors, and forgotten assets.
 
 
 
-🪓 Tools I ♥️: nuclei, ffuf, gf, dalfox, openredirex, getJS, subzy, katana, burp, rengine (modded 🛠️)
+## 🪓 Tools I ♥️: nuclei, ffuf, gf, dalfox, openredirex, getJS, subzy, katana, burp, rengine (modded 🛠️)
 
-🎯 Motto:
+## 🎯 Motto:
 
 cat all.txt | grep -i overlooked | grep -i unprotected | xargs exploit
 
-📡 Ping me if:
+## 📡 Ping me if:
 
 You have a dead asset to revive.
 
@@ -69,7 +69,5 @@ You think 404 sometimes hides 200 OK.
 ---
 
 > “They patched it. I smiled.” – xpltr
-
-
 
 ---
