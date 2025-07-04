@@ -36,12 +36,11 @@ Misconfigs hiding behind 403s.
 
 ## 🚀 Tools and Projects:
 
-(S3Hunter)[https://github.com/xplt-r/s3hunter]: Smarter & faster S3 bucket hunter with mirror logic and retries.
+[S3Hunter](https://github.com/xplt-r/s3hunter): Smarter & faster S3 bucket hunter with mirror logic and retries.
 
-(DorkNinja)[httpsL//github.com/xplt-r/DorkNinja]: Automated CLI-based google dorking tool.
+[DorkNinja](https://github.com/xplt-r/DorkNinja): Automated CLI-based google dorking tool.
 
-(Nuclei-Automator)[https://github.com/xplt-r/NucleiAutomator]: Context-aware nuclei orchestration.
-
+[Headshot](https://github.com/xplt-r/NucleiAutomator): Headshot is a CLI-only screenshot web capture tool using Chromium with full CLI usability and a clean codebase.
 
 ## 🧠 Mindset:
 
