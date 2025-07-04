@@ -3,12 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=22&center=true&vCenter=true&width=650&lines=Bug+Bounty+Hunter;Recon+Automation+Architect;WSL+Poweruser+%7C+Linux+Customizer;Threat+Surface+Manager+%7C+Customised+Tools+Developer" />
 </p>
 
-<h2 align="left">
+<h2 align="center">
   Hi there 👋
 </h2>
 
+<p align="center">
 I'm **[`XPLTR`](https://instagram.com/the.xploiter)**, an Ethical Hacker, Security Researcher and Bug Hunter. With a strong passion for Tech and expertise in AI and Automation, vulnerability assessment and bug hunting, my goal is not just to report bugs and earn bounties but also to make great contributions to the InfoSec Community.
-
+</p>
 
 <details>
   <summary>More about me</summary>
