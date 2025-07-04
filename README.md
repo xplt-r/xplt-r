@@ -49,7 +49,7 @@ I chase logic, loose doors, and forgotten assets.
 
 
 
-## 🪓 Tools I ♥️: nuclei, ffuf, gf, dalfox, openredirex, getJS, subzy, katana, burp, rengine (modded 🛠️)
+## 🪓 Tools I ♥️: nuclei, ffuf, gf, dalfox, openredirex, getJS, subzy, katana, burpsuite, (modded 🛠️)
 
 ## 🎯 Motto:
 
