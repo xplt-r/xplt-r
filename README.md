@@ -7,7 +7,7 @@
   Hi there 👋
 </h2>
 
-I'm **[`XPLTR`](https://instagram.com/the.xploiter)**, an Ethical Hacker, Security Researcher and Bug Hunter. With a strong passion for Tech and expertise in AI and Automation, vulnerability assessment and bug hunting, my goal is not just to report bugs and earn bounties but also to make great contributions to the InfoSec Community.
+I'm **[`XPLTR`](https://instagram.com/the.xploiter)**, an Ethical Hacker, Security Researcher and Bug Hunter. With a strong passion for Tech and expertise in AI and Automation, vulnerability assessment and bug                                           hunting, my goal is not just to report bugs and earn bounties but also to make great contributions to the InfoSec Community.
 
 <details>
   <summary>More about me</summary>
