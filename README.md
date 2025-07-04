@@ -17,7 +17,7 @@ I'm **[`XPLTR`](https://instagram.com/the.xploiter)**, an Ethical Hacker, Securi
 - **Name**: Aman Gawas
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **AI And Automation Expert**
-- i have experience in **Programming**,**Reverse Engineering**,**Social engineering**,**Ai**
+- I have experience and knowledge in **Programming**,**Reverse Engineering**,**Social engineering**,**Ai**,**Prompt Engineering**
 - Improving knowledge in **Bug Bounty Hunting**,**Implementing Automation in Bug Bounties**
 - Lifelong learner — always exploring **everything**
 
