@@ -68,7 +68,7 @@ You think 404 sometimes hides 200 OK.
 
 ---
 
-> “They patched it. I smiled.” – exploiter
+> “They patched it. I smiled.” – xpltr
 
 
 
