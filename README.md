@@ -23,17 +23,6 @@ I'm <a href="https://instagram.com/the.xploiter">XPLTR</a>, an Ethical Hacker, S
 
 ---
 
-## 🔍 Currently hunting:
-
-Domains without their name in the bucket.
-
-Endpoints that trust too much.
-
-Parameters that echo back a whisper ("FUZZ").
-
-Misconfigs hiding behind 403s.
-
-
 ## 🚀 Tools and Projects:
 
 [S3Hunter](https://github.com/xplt-r/s3hunter): Smarter & faster S3 bucket hunter with mirror logic and retries.
@@ -48,8 +37,7 @@ Misconfigs hiding behind 403s.
 I chase logic, loose doors, and forgotten assets.
 
 
-
-## 🪓 Tools I ♥️: nuclei, ffuf, gf, dalfox, openredirex, getJS, subzy, katana, burpsuite, (modded 🛠️)
+## Tools I ♥️: nuclei, ffuf, gf, dalfox, openredirex, getJS, subzy, katana, burpsuite, (modded 🛠️)
 
 ## 🎯 Motto:
 
@@ -62,7 +50,6 @@ You have a dead asset to revive.
 You believe SSRF is the new RCE.
 
 You think 404 sometimes hides 200 OK.
-
 
 
 ---
