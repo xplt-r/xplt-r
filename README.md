@@ -27,9 +27,9 @@ I'm <a href="https://instagram.com/the.xploiter">XPLTR</a>, an Ethical Hacker, S
 
 [S3Hunter](https://github.com/xplt-r/s3hunter): Smarter & faster S3 bucket hunter with mirror logic and retries.
 
-[DorkNinja](https://github.com/xplt-r/DorkNinja): Automated CLI-based google dorking tool.
+[DorkNinja](https://github.com/xplt-r/DorkNinja): Powerful CLI based Google Dorking Tool written in Python.
 
-[Headshot](https://github.com/xplt-r/NucleiAutomator): Headshot is a CLI-only screenshot web capture tool using Chromium with full CLI usability and a clean codebase.
+[Headshot](https://github.com/xplt-r/NucleiAutomator): Headshot is a CLI-only screenshot web capture tool using Chromium.
 
 ## 🧠 Mindset:
 
