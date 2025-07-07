@@ -37,8 +37,6 @@ I'm <a href="https://instagram.com/the.xploiter">XPLTR</a>, an Ethical Hacker, S
 I chase logic, loose doors, and forgotten assets.
 
 
-## Tools I ♥️: nuclei, ffuf, gf, dalfox, openredirex, getJS, subzy, katana, burpsuite, (modded 🛠️)
-
 ## 🎯 Motto:
 
 cat all.txt | grep -i overlooked | grep -i unprotected | xargs exploit
