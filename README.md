@@ -14,10 +14,11 @@ I'm <a href="https://www.linkedin.com/in/aman-gawas-73a2a335a/">XPLTR</a>, an Et
 
 - **Name**: Aman Gawas
 - **From**: India
-- **Bug Hunter** | **Security Researcher** | **AI And Automation Expert**
+- **Bug Hunter** | **Security Researcher** | **AI And Automation Enthusiasist**
 - I have experience and knowledge in **Programming**, **Social engineering**, **AI** and **Prompt Engineering**
-- Improving knowledge in **Bug Bounty Hunting**, **Implementing Automation in Bug Bounties**
+- Improving knowledge in **Bug Bounty Hunting**, **Implementing Automation in Bug Bounty Hunting**
 - Lifelong learner — always exploring **everything**
+- Follow me on [Instagram](https://instagram.com/the.xploiter)
 
 </details>
 
