@@ -7,7 +7,7 @@
   Hi there 👋
 </h2>
 <p align="center">
-I'm <a href="https://instagram.com/the.xploiter">XPLTR</a>, an Ethical Hacker, Security Researcher and Bug Hunter. With a strong passion for Tech and expertise in AI, Automation, vulnerability assessment and bug hunting. My goal is not just to report bugs and earn bounties but also to make great contributions to the InfoSec Community.
+I'm <a href="https://www.linkedin.com/in/aman-gawas-73a2a335a/">XPLTR</a>, an Ethical Hacker, Security Researcher and Bug Hunter. With a strong passion for Tech and expertise in AI, Automation, vulnerability assessment and bug hunting. My goal is not just to report bugs and earn bounties but also to make great contributions to the InfoSec Community.
 
 <details>
   <summary>More about me</summary>
