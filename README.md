@@ -35,7 +35,7 @@ I'm <a href="https://www.linkedin.com/in/aman-gawas-73a2a335a/">XPLTR</a>, an Et
 ## 🧠 Mindset:
 
 > I don’t chase CVEs.
-I chase logic, loose doors, and forgotten assets.
+I chase logic, loose doors and forgotten assets.
 
 
 ## 🎯 Motto:
